@@ -116,5 +116,5 @@ a.nivo-prevNav { left:15px; }
 .newsletterform label { font-size:24px; color:#fff; line-height:1.5;}
 .newsletterform input[type=text],.newsletterform input[type=email] { background: #fff url(../images/bg-input.png) repeat-x left top; border: solid 1px #2a4352; box-shadow: 0 0 1px #7291a2; -moz-box-shadow: 0 0 1px #7291a2; -webkit-box-shadow: 0 0 1px #7291a2; width:190px;}
 .newsletterform .button > span { background: #0ea5b6 url(../images/button40.png) repeat-x center top; font-size:16px; color:#fff; width:130px; height:40px; line-height:36px; border: solid 1px #2a373f;}
-.legality { padding-top:15px; border-top: solid 1px #375263;}
+.legality { padding-top:15px; border-top: solid 1px #555;}
 .social-networks li { display: inline; margin-right: 15px;}
