@@ -47,6 +47,10 @@ input[type=text], input[type=email], textarea, .button span { border-radius:4px;
 .button span { color:#fff; box-shadow: 0 1px 4px rgba(0,0,0,0.3); -moz-box-shadow:0 1px 4px rgba(0,0,0,0.3); -webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.3); text-shadow: 0 1px 0 #146a73;}
 .header, .footer { color:#99b1c0;}
 .header a, .footer a { color:#fff;}
+.header .nav { float: right; margin-top: 30px;}
+.header .nav li { float: left; }
+.header .nav li a { margin: 0 10px; font-weight: bold; font-size: 16px;}
+.header .nav li a:hover { text-decoration: underline; }
 .main-container a { color:#25b3c2;}
 .grey { color:#a3a5a6;}
 .wrapper { width:100%; overflow:hidden;}
